@@ -24,6 +24,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[React](https://pt-br.reactjs.org)**
 - **[TypeScript](https://www.typescriptlang.org/)**
 - **[Vite](https://vitejs.dev/)**
+- **[TailwindCss](https://tailwindcss.com/)**
 
 
 ## 🔨 Amostra
